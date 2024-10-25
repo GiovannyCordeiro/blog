@@ -35,7 +35,8 @@
         "alefragnani.Bookmarks",
         "mikestead.dotenv",
         "vincaslt.highlight-matching-tag",
-        "oderwat.indent-rainbow"
+        "oderwat.indent-rainbow",
+        "alexcvzz.vscode-sqlite"
       ]
     }
   },
